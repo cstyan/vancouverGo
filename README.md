@@ -15,4 +15,5 @@ I'm not opposed to including remote friendly companies that have a Go developers
 # Companies
 | Company      | Description | Size/Local/Go Devs. | Type of Work |
 | ------------ | ----------- | ------------------- | ------------ |
-|              |             |                     |              |
+| [Segment](https://segment.com/) | data infrastrucutre | ? | backend and saas apis? |
+| [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops |
