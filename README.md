@@ -21,3 +21,4 @@ I'm not opposed to including remote friendly companies that have a Go developers
 | [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops | |
 | [BPI](https://www.bpi-software.com/) | b2b | ? | backend? | |
 | [Capiche](https://capiche.io) | b2b | 2 devs / 1 local / ? | backend/cloud | For clarity, our current production stack is mostly PHP and Node based; however, we have just kicked off some work in Go, and anticipate it being our main language for most of our new work.|
+| [Dapper Labs](https://dapperlabs.com) | Blockchain Technologies | 150/all/~15 | backend/R&D | |
