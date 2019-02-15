@@ -15,9 +15,9 @@ small handful of developers. Should someone who wants to work mostly in Go be ha
 I'm not opposed to including remote friendly companies that have a Go developers in Vancouver who either meet and work in person regularly, or share a coworking space together.
 
 # Companies
-| Company      | Description | Size/Local/Go Devs. | Type of Work |
-| ------------ | ----------- | ------------------- | ------------ |
-| [Segment](https://segment.com/) | data infrastrucutre | ? | backend and saas apis? |
-| [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops |
-| [BPI](https://www.bpi-software.com/) | b2b | ? | backend? |  
-| [Capiche](https://capiche.io) | b2b | 2 devs / 1 local / ? | backend/cloud |  
+| Company      | Description | Size/Local/Go Devs. | Type of Work | Notes | 
+| ------------ | ----------- | ------------------- | ------------ | ----- |
+| [Segment](https://segment.com/) | data infrastrucutre | ? | backend and saas apis? | |
+| [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops | |
+| [BPI](https://www.bpi-software.com/) | b2b | ? | backend? | |
+| [Capiche](https://capiche.io) | b2b | 2 devs / 1 local / ? | backend/cloud | For clarity, our current production stack is mostly PHP and Node based; however, we have just kicked off some work in Go, and anticipate it being our main language for most of our new work.|
