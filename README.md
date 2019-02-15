@@ -17,3 +17,4 @@ I'm not opposed to including remote friendly companies that have a Go developers
 | ------------ | ----------- | ------------------- | ------------ |
 | [Segment](https://segment.com/) | data infrastrucutre | ? | backend and saas apis? |
 | [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops |
+| [ActiveState](https://activestate.com/) | Open Source Languages and Tools | ? | backend / apis / devops |
