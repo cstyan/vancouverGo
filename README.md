@@ -24,5 +24,5 @@ I'm not opposed to including remote friendly companies that have a Go developers
 | [Dapper Labs](https://dapperlabs.com) | Blockchain Technologies | 150/all/~15 | backend/R&D | |
 | [Klei Entertainment](https://klei.com/) | Video Games | ? | backend/devops | |
 | [MetaLabs](https://metalab.co) | Application Development (contract) | ~100/all/? | various dev. | uses Go to build APIs that support iOS, Android, and frontend web teams a variety projects. Note that like any shop that does client work, we don’t always get a say in what the backend is written in, so not every project uses Go. That said, Go powers all of our internal projects (including the blog and blogging engine for the metalab.co site), and adoption at the company for projects where we do have a say has increased a ton over the last year. |
-| [Segment](https://segment.com/) | data infrastrucutre | ? | backend and saas apis? | |
+| [Segment](https://segment.com/) | data infrastructure | ? | backend and saas apis? | |
 | [Tigera](https://www.tigera.io/) | Kubernetes networking and firewalls | 75/16/6 | backend | |
